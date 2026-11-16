@@ -1,0 +1,14 @@
+.venv/
+.browsers/
+.cache/
+.results/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.ruff_cache/
+*.egg-info/
+*.whl
+*.key
+*.pem
+/credentials*
+/config.local.*

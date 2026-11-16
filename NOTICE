@@ -1,0 +1,9 @@
+This test harness is distributed under the GNU Affero General Public License,
+version 3 or later. See LICENSE.
+
+tests/dns_wire_fixture.py adapts the DNS authority fixture from dns-lexicon's
+Le Bureau provider tests, distributed under the MIT license. The original
+copyright and license are reproduced in licenses/dns-lexicon-MIT.txt.
+
+The YunoHost-specific tests exercise YunoHost code distributed under AGPL-3.0-or-later.
+YunoHost and Lexicon remain separate projects with their respective licenses.
